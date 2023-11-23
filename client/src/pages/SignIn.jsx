@@ -2,7 +2,7 @@ import React from 'react'
 
 const SignIn = () => {
     return (
-        <div>SignIn</div>
+        <div className=' flex justify-center h-96 bg-slate-500 items-center hover:bg-slate-50 '>SignIn</div>
     )
 }
 
